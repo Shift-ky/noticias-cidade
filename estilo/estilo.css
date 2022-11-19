@@ -6,7 +6,7 @@
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
-    background: #fff url(../imagens/fundo.png) repeat-x;
+    background: #fff url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/fundo.png?raw=true) repeat-x;
 }
 #container{
     width: 1200px;
@@ -16,14 +16,14 @@ body{
 
 #topo{
     height: 150px;
-    background: url(../imagens/detalhe-topo.png) no-repeat right top;
+    background: url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/detalhe-topo.png?raw=true) no-repeat right top;
     padding-top: 25px;
 }
 
 .logo{
     width: 152px;
     height: 66px;
-    background: url(../imagens/logo.png);
+    background: url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/logo.png?raw=true);
     text-indent: -3000px;
 }
 
@@ -52,7 +52,7 @@ float: left;
     line-height: 2.1em;
     text-decoration: none;
     color: #fff;
-    background: url(../imagens/divisor.png) no-repeat left center;
+    background: url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/divisor.png?raw=true) no-repeat left center;
 }
 #topo ul .primeiro a{
     background: none;
@@ -125,7 +125,7 @@ body.fotos #navegacao a#fotos
 .caixa{
     margin: 10px ;
     padding:5px;
-    background: #fff url(../imagens/fundo-caixa.png);
+    background: #fff url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/fundo-caixa.png?raw=true);
 }
 
 h2{
@@ -151,7 +151,7 @@ h2{
 }
 
 #lateral ul a:hover{
-    background: #f9f9f9 url(../imagens/marcador.png) no-repeat left;
+    background: #f9f9f9 url(https://github.com/Shift-ky/imagens/blob/main/noticias-cidade/marcador.png?raw=true) no-repeat left;
     padding-left: 20px;
     color: #a1a1a1;
 }
