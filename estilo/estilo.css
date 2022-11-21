@@ -198,3 +198,32 @@ h3{
     background: #de003e;
     color: #fff;
 }
+
+#lista-noticias li{
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height: 65px;
+}
+
+#lista-noticias li a img{
+    float: left;
+    margin: 5px;
+}
+
+#lista-noticias li a {
+   text-decoration: none;
+   font-size: 0.8em;
+}
+
+#lista-noticias li a h3{
+    font-size: 0.8em;
+    padding: 0;
+    color: #294c71;
+ }
+ #lista-noticias li a p{
+    font-size: 0.7em;
+ }
+ #lista-noticias li:hover{
+    background: #eee;
+    cursor: pointer;
+ }
